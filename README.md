@@ -95,7 +95,7 @@ If run into issue with `Error: Can't resolve 'draft-js-plugins/editor'` try: `$ 
 
 ## Examples of How Project Should Behave
 ### Signing Up and Logging In
-https://github.com/cindydingg/MemoMind/assets/152813226/cb161621-101c-4e72-b8c7-792e6c9820bf
+https://github.com/cindydingg/MemoMind/READMEassets/signup-demo.mov
 
 ### Making Notes
 https://github.com/cindydingg/MemoMind/assets/152813226/221464c2-f8e8-4916-9943-653c804af5e0
