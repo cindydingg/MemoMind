@@ -92,40 +92,39 @@ If run into issue with `Error: Can't resolve 'draft-js-plugins/editor'` try: `$ 
 * Jermaine Xie (JJjermaine): contributed to login/signup, notes page, MongoDB setup, friend management, notes privacy 
 * Albert Le (albert97567): contributed to login/signup page, MongoDB setup, password encryption, notes searchbar, labels searchbar
 
-
 ## Examples of How Project Should Behave
 ### Signing Up and Logging In
-https://github.com/cindydingg/MemoMind/READMEassets/signup-demo.mov
+https://github.com/user-attachments/assets/f6889e95-2efb-4e29-b2fe-c08bc7a5e915
 
 ### Making Notes
-https://github.com/cindydingg/MemoMind/assets/152813226/221464c2-f8e8-4916-9943-653c804af5e0
+https://github.com/user-attachments/assets/c70a9dd0-e5d3-4698-909b-137f07ebb572
 
 ### Editing Notes, Adding Labels
-https://github.com/cindydingg/MemoMind/assets/152813226/29a62ad6-d100-4b81-9a60-8a4fbf296d08
+https://github.com/user-attachments/assets/4fa2b9fa-eb1f-416b-8722-8d3db40b5029
 
 ### Searching Through Notes
-https://github.com/cindydingg/MemoMind/assets/152813226/5f280813-51ad-40c9-a830-c627539df5c2
+https://github.com/user-attachments/assets/45912b4c-4325-4f7e-80f8-f4ba296d2b03
 
 ### Calendar and Events
-https://github.com/cindydingg/MemoMind/assets/152813226/aa41e4f8-a488-42c0-bc39-f9df9d22fa4e
+https://github.com/user-attachments/assets/4f6c56a8-113c-4dc2-884a-c3a22c9817c9
 
 ### Adding Images
-https://github.com/cindydingg/MemoMind/assets/152813226/ce65848e-7a6b-4726-9dfc-54a09e6cc898
+https://github.com/user-attachments/assets/535e0d05-b7b8-4bea-998f-789c3ab3354e
 
 ### Adding Videos
-https://github.com/cindydingg/MemoMind/assets/152813226/e389c7bd-30aa-4d97-8eee-7a6e87c3b242
+https://github.com/user-attachments/assets/d00eaacf-3664-4bb5-bfc0-e0b5d2890fbb
 
 ### Viewing Profile
-<img width="1502" alt="profile-screenshot" src="https://github.com/cindydingg/MemoMind/assets/152813226/f23cb722-ecee-40cc-ba9d-67d8bf7d9758">
+<img width="1502" alt="viewing-profile" src="https://github.com/user-attachments/assets/a6c90fcb-7c1e-47ff-8478-0b70e29d0033">
 
 ### Managing Notes Privacy
-https://github.com/cindydingg/MemoMind/assets/152813226/1eaad418-3636-45a3-a1db-eca13d2cb623
+https://github.com/user-attachments/assets/473d585a-7d6a-48ce-a88c-21421825f3b0
 
 ### Requesting Friends
-https://github.com/cindydingg/MemoMind/assets/152813226/faa388b3-1468-4503-8356-504f30435990
+https://github.com/user-attachments/assets/68701a18-e787-495e-9c40-d47daf9a2d73
 
 ### Accepting Friends
-https://github.com/cindydingg/MemoMind/assets/152813226/31a6f60f-5017-4205-af8d-757f0d4563d5
+https://github.com/user-attachments/assets/ee3b9a51-67d6-42ac-b123-7ba33c499ecc
 
 ### Viewing Friend's Notes
-https://github.com/cindydingg/MemoMind/assets/152813226/307f58c7-8f81-4c9f-8d09-cd7471108142
+https://github.com/user-attachments/assets/0768e747-7a62-48e5-8b18-d66a7029d0c2
