@@ -42,7 +42,7 @@ The datastore for this application is implemented using MongoDB, which is flexib
 ## Setup
 ### Option 1: Setup With setup.sh
 1. Clone the repository 
-`$ git clone https://github.com/xiangchen-stat/MemoMind`
+`$ git clone https://github.com/cindydingg/MemoMind`
 or download the zip on GitHub.
 
 2. Make sure you're in the directory
@@ -59,7 +59,7 @@ Create an account and have fun, the content will be saved for your account.
 
 ### Option 2: Setup With Commands
 1. Clone the repository 
-`$ git clone https://github.com/xiangchen-stat/MemoMind`
+`$ git clone https://github.com/cindydingg/MemoMind`
 or download the zip on GitHub.
 
 2. Make sure you're in the directory
@@ -76,7 +76,7 @@ Create an account and have fun, the content will be saved for your account.
 
 
 ## Commands
-`$ git clone https://github.com/xiangchen-stat/MemoMind`
+`$ git clone https://github.com/cindydingg/MemoMind`
 
 `$ cd MemoMind`
 
@@ -87,45 +87,45 @@ If run into issue with `Error: Can't resolve 'draft-js-plugins/editor'` try: `$ 
 `$ npm run dev`
 
 ## Contributors
+* Cindy Ding (cindydingg): contributed to image upload, video upload, notes page
 * Sharon Chen (sharonc05): contributed to login/signup, calendar, calendar events, labels, navigation bar
 * Jermaine Xie (JJjermaine): contributed to login/signup, notes page, MongoDB setup, friend management, notes privacy 
-* Cindy Ding (cindydingg): contributed to image upload, video upload, notes page
 * Albert Le (albert97567): contributed to login/signup page, MongoDB setup, password encryption, notes searchbar, labels searchbar
 
 
 ## Examples of How Project Should Behave
 ### Signing Up and Logging In
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/cb161621-101c-4e72-b8c7-792e6c9820bf
+https://github.com/cindydingg/MemoMind/assets/152813226/cb161621-101c-4e72-b8c7-792e6c9820bf
 
 ### Making Notes
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/221464c2-f8e8-4916-9943-653c804af5e0
+https://github.com/cindydingg/MemoMind/assets/152813226/221464c2-f8e8-4916-9943-653c804af5e0
 
 ### Editing Notes, Adding Labels
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/29a62ad6-d100-4b81-9a60-8a4fbf296d08
+https://github.com/cindydingg/MemoMind/assets/152813226/29a62ad6-d100-4b81-9a60-8a4fbf296d08
 
 ### Searching Through Notes
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/5f280813-51ad-40c9-a830-c627539df5c2
+https://github.com/cindydingg/MemoMind/assets/152813226/5f280813-51ad-40c9-a830-c627539df5c2
 
 ### Calendar and Events
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/aa41e4f8-a488-42c0-bc39-f9df9d22fa4e
+https://github.com/cindydingg/MemoMind/assets/152813226/aa41e4f8-a488-42c0-bc39-f9df9d22fa4e
 
 ### Adding Images
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/ce65848e-7a6b-4726-9dfc-54a09e6cc898
+https://github.com/cindydingg/MemoMind/assets/152813226/ce65848e-7a6b-4726-9dfc-54a09e6cc898
 
 ### Adding Videos
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/e389c7bd-30aa-4d97-8eee-7a6e87c3b242
+https://github.com/cindydingg/MemoMind/assets/152813226/e389c7bd-30aa-4d97-8eee-7a6e87c3b242
 
 ### Viewing Profile
-<img width="1502" alt="profile-screenshot" src="https://github.com/xiangchen-stat/MemoMind/assets/152813226/f23cb722-ecee-40cc-ba9d-67d8bf7d9758">
+<img width="1502" alt="profile-screenshot" src="https://github.com/cindydingg/MemoMind/assets/152813226/f23cb722-ecee-40cc-ba9d-67d8bf7d9758">
 
 ### Managing Notes Privacy
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/1eaad418-3636-45a3-a1db-eca13d2cb623
+https://github.com/cindydingg/MemoMind/assets/152813226/1eaad418-3636-45a3-a1db-eca13d2cb623
 
 ### Requesting Friends
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/faa388b3-1468-4503-8356-504f30435990
+https://github.com/cindydingg/MemoMind/assets/152813226/faa388b3-1468-4503-8356-504f30435990
 
 ### Accepting Friends
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/31a6f60f-5017-4205-af8d-757f0d4563d5
+https://github.com/cindydingg/MemoMind/assets/152813226/31a6f60f-5017-4205-af8d-757f0d4563d5
 
 ### Viewing Friend's Notes
-https://github.com/xiangchen-stat/MemoMind/assets/152813226/307f58c7-8f81-4c9f-8d09-cd7471108142
+https://github.com/cindydingg/MemoMind/assets/152813226/307f58c7-8f81-4c9f-8d09-cd7471108142
